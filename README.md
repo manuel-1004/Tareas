@@ -1,0 +1,4 @@
+## Bienvenido a mi primer Repositorio en GIT:smiley:
+**Descripcion de la Actividad de la Unidad 2**
+***
+Para poder solucionar o realizar el programa CalculadoradeEstaciones evalue y aplique un algoritmo para tener una idea de los pasos a seguir para ejecutar dicho programa, luego aplique los conocimientos del lenguaje JavaScript primeramente declarando las variables necesarias para luego aplicar una condicional que evaluara el dato ingresado por el usuario, en este caso el numero del mes,  y asi devolver la estacion correspondiente al numero ingresado en la caja de texto. La razon por la que utilice el condicional if else if fue porque habian mas de dos condiciones que evaluar para asi poder devolver el valor correcto.
